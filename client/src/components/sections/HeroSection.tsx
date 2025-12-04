@@ -1,7 +1,7 @@
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
-import heroBg from "@assets/hero-background_1764884714555.jpg";
+import heroBg from "@assets/generated_images/pure_water_splash_professional_background.png";
 
 export function HeroSection() {
   const scrollToAbout = () => {
